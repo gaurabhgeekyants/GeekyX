@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="#">
-<img src="https://cdn.nlark.com/yuque/0/2022/png/153412/1643364757640-b4529458-ec8d-42cc-a2d8-c0ce60fdf50f.png" alt="SoloX" width="250">
+<img src="http://conscioustails.in/wp-content/uploads/2023/01/logo-1.png" alt="GeekyX" width="250">
 </a>
 <br>
 <br>
@@ -31,7 +31,7 @@ We are committed to solving inefficient, cumbersome test execution, and our goal
 notice: If Windows users need to test ios, install and start Itunes
 ```
 
-## Startup SoloX
+## Startup GeekyX
 ### default
 ```shell
 python3 -m solox
