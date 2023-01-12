@@ -1,6 +1,4 @@
-<p align="center">
-  <a>English</a> | <a href="./README.zh.md">中文</a> | <a href="./DocForAndroid.md">DocForAndroid</a>
-</p>
+
 
 <p align="center">
 <a href="#">
@@ -11,7 +9,7 @@
 
 </p>
 <p align="center">
-<a href="https://pypi.org/project/solox/" target="__blank"><img src="https://img.shields.io/pypi/v/solox" alt="solox preview"></a>
+<a href="https://pypi.org/project/solox/" target="__blank"><img src="https://img.shields.io/pypi/v/solox" alt="geekyx preview></a>
 <a href="https://pypistats.org/packages/solox" target="__blank"><img src="https://img.shields.io/pypi/dm/solox"></a>
 
 <br>
@@ -19,9 +17,9 @@
 
 ## Preview
 
-SoloX - Real-time collection tool for Android/iOS performance data.
+GeekyX - Real-time collection tool for Android/iOS performance data
 
-We are committed to solving inefficient, cumbersome test execution, and our goal is Simple Test In SoloX!
+We are committed to solving inefficient, cumbersome test execution, and our goal is Simple Test In GeekyX!
 
 <img src="https://cdn.nlark.com/yuque/0/2022/png/153412/1662348054846-b0164165-e83a-443e-9a05-8c1f9ddb355f.png?x-oss-process=image%2Fresize%2Cw_1500%2Climit_0"  width="100%" >
 
@@ -85,7 +83,4 @@ apm_type in ['cpu','memory','network','fps','battery']
 ## Thanks
 
 - https://github.com/alibaba/taobao-iphone-device
-
-## Communicate
-- Gmail: rafacheninc@gmail.com
 
